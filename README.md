@@ -4,7 +4,7 @@
 
 ## Overview
 
-Achieved the **67th place** in the Kaggle competition.
+Achieved the **345th place** in the Kaggle competition.
 
 **Competition Link:** [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
@@ -20,7 +20,7 @@ Implemented various modern data processing methods, showcasing the effectiveness
 
 ### Notebook
 
-- **Accuracy:** Achieved the highest accuracy of **0.05903** using custom code in notebooks. This method proved to be the most effective, highlighting the flexibility and extensive capabilities provided by coding from scratch.
+- **Accuracy:** Achieved the highest accuracy of **0.12258** using custom code in notebooks. This method proved to be the most effective, highlighting the flexibility and extensive capabilities provided by coding from scratch.
 
 ## Conclusion
 
