@@ -4,7 +4,7 @@
 
 ## Overview
 
-Achieved the **345th place** in the Kaggle competition.
+Achieved the **345th place** on 4731 participants in the Kaggle competition.
 
 **Competition Link:** [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
