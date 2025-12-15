@@ -12,18 +12,26 @@ Achieved the **345th place** on 4731 participants in the Kaggle competition.
 
 ## Results
 
-Implemented various modern data processing methods, showcasing the effectiveness and efficiency of different approaches.
+This project explores multiple modern machine learning approaches to address a regression problem and compares their effectiveness using the official Kaggle evaluation metric.
 
-### Azur Machine Learning
+### Azure Machine Learning
 
-- **AutoML:** Achieved a Log-RMSE of **0.15160**. This result demonstrates the power and ease of use of automated machine learning technologies for quickly obtaining significant outcomes.
-  
-- **Pipeline Designer:** With a Log-RMSE of **0.14062**, the Pipeline Designer tool further exemplifies the capability of Azure Machine Learning to streamline and enhance the model development process.
+- **AutoML:**  
+  Achieved a **Log-RMSE of 0.15160**, demonstrating the efficiency of automated machine learning for quickly establishing a strong regression baseline.
 
-### Notebook
+- **Pipeline Designer:**  
+  Achieved a **Log-RMSE of 0.14062**, highlighting the ability of Azure Machine Learning’s visual pipelines to streamline model development while improving performance.
 
-- **Score:** Achieved the highest Log-RMSE  **0.12258** using custom code in notebooks. This method proved to be the most effective, highlighting the flexibility and extensive capabilities provided by coding from scratch.
+### Notebook (Custom Implementation)
+
+- **Log-RMSE (Kaggle metric):**  
+  Achieved the **lowest Log-RMSE of 0.12258** using a fully custom notebook-based approach.  
+  This method delivered the best predictive performance, showcasing the flexibility and fine-grained control enabled by coding from scratch.
+
+> **Note:** Lower Log-RMSE values indicate better model performance.
 
 ## Conclusion
 
-The decision to utilize multiple modern data processing methods was insightful. Azure Machine Learning's AutoML and Pipeline Designer offered quick and promising results, showcasing the benefits of automated solutions. However, custom coding in Notebooks remained the superior option due to its unparalleled flexibility and potential for fine-tuning and optimization, leading to the best performance among the tested methods.
+Using multiple machine learning approaches provided valuable insights into the trade-offs between automation and manual optimization.  
+Azure Machine Learning’s AutoML and Pipeline Designer enabled rapid experimentation and delivered competitive results with minimal configuration.  
+However, the custom notebook-based implementation achieved the best performance due to its greater flexibility for feature engineering, model selection, and hyperparameter tuning.
