@@ -16,13 +16,13 @@ Implemented various modern data processing methods, showcasing the effectiveness
 
 ### Azur Machine Learning
 
-- **AutoML:** Achieved an accuracy of **0.15160**. This result demonstrates the power and ease of use of automated machine learning technologies for quickly obtaining significant outcomes.
+- **AutoML:** Achieved a Log-RMSE of **0.15160**. This result demonstrates the power and ease of use of automated machine learning technologies for quickly obtaining significant outcomes.
   
-- **Pipeline Designer:** With an accuracy of **0.14062**, the Pipeline Designer tool further exemplifies the capability of Azure Machine Learning to streamline and enhance the model development process.
+- **Pipeline Designer:** With a Log-RMSE of **0.14062**, the Pipeline Designer tool further exemplifies the capability of Azure Machine Learning to streamline and enhance the model development process.
 
 ### Notebook
 
-- **Accuracy:** Achieved the highest accuracy of **0.12258** using custom code in notebooks. This method proved to be the most effective, highlighting the flexibility and extensive capabilities provided by coding from scratch.
+- **Score:** Achieved the highest Log-RMSE  **0.12258** using custom code in notebooks. This method proved to be the most effective, highlighting the flexibility and extensive capabilities provided by coding from scratch.
 
 ## Conclusion
 
